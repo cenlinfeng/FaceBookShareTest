@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="facebook_app_id">379055709901266</string>
+    <string name="fb_login_protocol_scheme">fa1dd51b6192092bfc5d6eef05cd1ee3</string>
+
+</resources>
